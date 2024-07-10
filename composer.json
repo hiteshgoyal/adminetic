@@ -17,18 +17,18 @@
     ],
     "require": {
         "php": "^7.4|^8.0",
-        "doctrine/dbal": "^3.6",
-        "drh2so4/thumbnail": "^1.0",
-        "laravel/socialite": "^5.2",
+        "doctrine/dbal": "*",
+        "drh2so4/thumbnail": "*",
+        "laravel/socialite": "*",
         "laravel/ui": "*",
-        "livewire/livewire": "^2.4",
-        "spatie/laravel-activitylog": "^3.0|^4.0"
+        "livewire/livewire": "*",
+        "spatie/laravel-activitylog": "*"
     },
     "require-dev": {
-        "orchestra/testbench": "^6.0",
-        "phpunit/phpunit": "^9.0",
-        "barryvdh/laravel-debugbar": "^3.5",
-        "beyondcode/laravel-query-detector": "^1.5"
+        "orchestra/testbench": "*",
+        "phpunit/phpunit": "*",
+        "barryvdh/laravel-debugbar": "*",
+        "beyondcode/laravel-query-detector": "*"
     },
     "autoload": {
         "psr-4": {
